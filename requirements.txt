@@ -1,2 +1,9 @@
 Tkinter
 mysql.connector
+datetime
+shutil
+threading
+time
+cv2
+PIL
+os
